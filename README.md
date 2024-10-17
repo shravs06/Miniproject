@@ -1,4 +1,4 @@
-# Miniproject
+# Miniproject- CSS
 A modern photography portfolio website featuring a responsive, clickable icon that opens a navigation bar for an enhanced mobile experience.
 
 
